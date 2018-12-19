@@ -2,8 +2,8 @@
   "users": [
     {
       "id": 1,
-      "name": "Arthur Oliveira",
-      "email": "aoliveira@cod3r.com.br"
+      "name": "João Doria",
+      "email": "doria.joao@gov.sp.com"
     },
     {
       "id": 2,
@@ -11,9 +11,19 @@
       "email": "mjds@empresa.com"
     },
     {
-      "name": "Ana Silva",
+      "name": "Ana Silva Alt",
       "email": "anasilva@negocio.com.br",
       "id": 3
+    },
+    {
+      "name": "Guilherme Lopes dos Santos",
+      "email": "guilherme.santos@telefonicaed.com.br",
+      "id": 4
+    },
+    {
+      "name": "Igão da Massa",
+      "email": "igao_damassa@flavius.com.br",
+      "id": 5
     }
   ]
 }
